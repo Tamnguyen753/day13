@@ -19,3 +19,4 @@ button.addEventListener("click", () => {
 clearBtn.addEventListener("click", () => {
   todoLists.innerText = "";
 });
+console.log('Tam123')
